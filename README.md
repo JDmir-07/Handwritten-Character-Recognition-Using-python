@@ -4,5 +4,7 @@ There exists an already trained model with an accuracy score of about 80%, anyon
 
 
 Directions:
+#
 1 - First Extract that Img and Imgmodel files in the same directory where you kept the .ipynb file.
+#
 2 - sequentially load the codes and check out the model.
