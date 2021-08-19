@@ -1,5 +1,5 @@
 # Handwritten-Character-Recognition-Using-python
-Here, I have create a CNN model that is trained to predict whether a set of images is from english alphabet or not.
+Here, I have created a CNN model that is trained to predict whether a set of images is from english alphabet or not.
 There exists an already trained model with an accuracy score of about 80%, anyone interested can check out that model.
 
 
